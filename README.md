@@ -2,7 +2,7 @@
 
 ## How To Install
 
-After downloading this package `cd t9posttestoopjavascript`
+After downloading this package `cd t9-post-test-oop-javascript`
 
 ## How To Run
 
